@@ -1,1 +1,32 @@
-dhghfkfhhfjuifjfhffuihbggffbefiuebvgbhghhghjhjgfgthis is my first project
+this is my second project
+
+install git for cmd line
+
+linux:
+$sudo apt-get update
+$sudo apt-get install git
+
+windows:
+install gitbash or 
+
+commands ->
+git clone : to clone the data from github
+git branch: will show you the current branch.
+git status: (to show the status )how many  files you have on github.
+git add  filename : to add file on github.
+git add-- all : to add multiple files on github
+or 
+git .
+
+git commit : to save
+
+prequisite before push the changes on repo
+
+2] using username and token
+go to profile-> settings-> developer settings->personal access tokens->tokens(classic)->generate new token-> token classic
+
+personal access tokens(classic)//of demo example
+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
+
+git push origin main -> to pull chages to github
+
